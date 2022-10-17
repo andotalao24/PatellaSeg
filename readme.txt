@@ -3,8 +3,8 @@ You may need to run conver2img.py and dataProcess.py to preprocess your data fir
 
 The assumed file structure is as below
 ./data
-   ./Patient case
-       ./ images
+   /Patient case
+       / images
 
 1 run NNseg.py to generate segmentation from neural networks
                 - add any model you want to models.py and update NNseg.py correspondingly
