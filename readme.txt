@@ -15,5 +15,5 @@ The assumed file structure is as below
 3 run fusion.py to conduct the proposed fusion framework.
 	- for details, please view our paper
 
-If you have relatively ample data (e.g., >30 patient cases), there may be no need to further run step2 and step3. 
+If you have relatively ample data, there may be no need to further run step2 and step3. 
 Using a proper neural network is already capable enough. The improvement brought by fusion with SSM is subtle, which depends on your data. 
