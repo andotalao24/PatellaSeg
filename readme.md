@@ -9,9 +9,9 @@ Our work is especially designed for patella segmentation in low-data regimes. Ou
 ## Environment  
 Tensorflow>=2.1.0, Python>=3.6.10  
 
-## Instruction
+## Instructions
 
-- Preprocess data to ensure they fit into input size of CNN model.
-- Run NNseg to obtain segmentation results of a CNN model (defined in models.py).  
-- Run SSMseg to obtain segmentation results of SSM.  
-- Run fusion to obtain ultimate segmentation.  
+1. Preprocess data to ensure they fit into input size of CNN model.
+2. Run NNseg to obtain segmentation results of a CNN model (defined in models.py).  
+3. Run SSMseg to obtain segmentation results of SSM.  
+4. Run fusion to obtain ultimate segmentation.  
