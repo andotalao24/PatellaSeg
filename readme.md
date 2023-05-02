@@ -1,4 +1,4 @@
-# Adaptive Fusion of Deep Learning with Statistical Shape Model for Robust Patella Segmentation from CT Images
+# Adaptive Fusion of Deep Learning with Statistical Anatomical Knowledge for Robust Patella Segmentation from CT Images
 
 ## Description
 
